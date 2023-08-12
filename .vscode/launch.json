@@ -1,0 +1,43 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ex_1_calculo_imc",
+            "request": "launch",
+            "type": "dart",
+            "program": "modulo_0/ex_1_calculo_imc.dart",
+            "console": "terminal"
+        },
+        {
+            "name": "ex_2_fibonacci",
+            "request": "launch",
+            "type": "dart",
+            "program": "modulo_0/ex_2_fibonacci.dart",
+            "console": "terminal"
+        },
+        {
+            "name": "ex_3_regratres",
+            "request": "launch",
+            "type": "dart",
+            "program": "modulo_0/ex_3_regratres.dart",
+            "console": "terminal"
+        },
+        {
+            "name": "ex_5_cifra_viegenere",
+            "request": "launch",
+            "type": "dart",
+            "program": "modulo_0/ex_5_cifra_viegenere.dart",
+            // "console": "terminal"
+        },
+        {
+            "name": "ex7",
+            "request": "launch",
+            "type": "dart",
+            "program": "modulo_0/ex7.dart",
+            // "console": "terminal"
+        }
+    ]
+}
